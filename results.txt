@@ -1,0 +1,44 @@
+Scan Results:
+
+URL: https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/legislacao-por-tema
+Keywords found: telefonia
+
+URL: https://www.gov.br/compras/pt-br/fornecedor/agricultura-familiar
+Keywords found: chamadas
+
+URL: https://www.gov.br/compras/pt-br/agente-publico/logistica-publica-sustentavel/acoes-sustentaveis-e-inovacoes-1
+Keywords found: chamadas
+
+URL: https://www.gov.br/compras/pt-br/agente-publico/logistica-publica-sustentavel/boas-praticas
+Keywords found: telefonia
+
+URL: https://www.gov.br/compras/pt-br/acesso-a-informacao/eventos?b_start:int=90
+Keywords found: telefonia
+
+URL: https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/legislacao-por-tema#wrapper
+Keywords found: telefonia
+
+URL: https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/legislacao-por-tema#main-navigation
+Keywords found: telefonia
+
+URL: https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/legislacao-por-tema#govbr-busca-input
+Keywords found: telefonia
+
+URL: https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/legislacao-por-tema#portal-footer
+Keywords found: telefonia
+
+URL: https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-2-de-29-de-marco-de-2018
+Keywords found: chamadas
+
+URL: https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-10-de-12-de-novembro-de-2012
+Keywords found: voip, telefonia
+
+URL: https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-ndeg-12-de-05-de-setembro-de-1997
+Keywords found: telefonia
+
+URL: https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normtaiva-seges-me-no-103-de-30-de-dezembro-de-2022
+Keywords found: telefonia
+
+URL: https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas?b_start:int=60
+Keywords found: telefonia
+
